@@ -27,9 +27,9 @@
 
 **Sección 2**: Debe contener un anclaje con `id`, apuntando específicamente a la segunda sección del documento.
 
-**Sección 3**: Debe realizar el anclaje utilizando `class`, y debe llevar al usuario hacia la tercera sección del documento.
+**Sección 3**: Debe realizar el anclaje utilizando `id`, y debe llevar al usuario hacia la tercera sección del documento.
 
-**Contáctenos**: Debe contar con un anclaje con `class` hacia el `footer` del documento.
+**Contáctenos**: Debe contar con un anclaje con `id` hacia el `footer` del documento.
 
 *Todas las secciónes son etiquetas `section`*
 
